@@ -28,7 +28,7 @@ xkb_symbols "basic" {
     key <AE12> {	[     equal,	plus		]	};
 
     key <AD01> {	[	  aacute,	Aacute 		]	};
-    key <AD02> {	[	  w,	W,	wacute,         Wacute		]	};
+    key <AD02> {	[	  w,	W		]	};
     key <AD03> {	[	  e,	E		]	};
     key <AD04> {	[	  r,	R		]	};
     key <AD05> {	[	  t,	T, tcircumflex, Tcircumflex		]	};
@@ -36,26 +36,26 @@ xkb_symbols "basic" {
     key <AD07> {	[	  u,	U		]	};
     key <AD08> {	[	  i,	I		]	};
     key <AD09> {	[	  o,	O		]	};
-    key <AD10> {	[	  p,	P, 	U1E55,          U1E54 		]	}; //  ṕ Ṕ
+    key <AD10> {	[	  p,	P		]	};
     key <AD11> {	[ bracketleft,	braceleft	]	};
     key <AD12> {	[ bracketright,	braceright	]	};
 
     key <AC01> {	[	  a,	A 		]	};
     key <AC02> {	[	  s,	S]	};
     key <AC03> {	[	  d,	D, 	U1E13,          U1E12		]	}; //   ḓ Ḓ 
-    key <AC04> {	[   dstroke,	Dstroke		]	};
+    key <AC04> {	[   dstroke,	Dstroke,	f, 	F		]	};
     key <AC05> {	[	  g,	G, 	U01F5,          U01F4		]	}; //   ǵ Ǵ 
     key <AC06> {	[	  h,	H		]	};
     key <AC07> {	[	  j,	J		]	};
-    key <AC08> {	[	  k,	K,	U1E31,          U1E30		]	}; //   ḱ Ḱ 
+    key <AC08> {	[	  k,	K		]	}; 
     key <AC09> {	[	  l,	L		]	};
     key <AC10> {	[ semicolon,	colon		]	};
     key <AC11> {	[ apostrophe,	quotedbl	]	};
 
     key <AB01> {	[	  z,	Z, 	zacute, Zacute 		]	};
-    key <AB02> {	[    sacute, 	Sacute		]	};
+    key <AB02> {	[    sacute, 	Sacute,	x,	X		]	};
     key <AB03> {	[	  c,	C,U1E71,          U1E70		]	}; //   ṱ Ṱ 
-    key <AB04> {	[    nacute,	Nacute]	};
+    key <AB04> {	[    nacute,	Nacute,	v,	V]	};
     key <AB05> {	[	  b,	B		]	};
     key <AB06> {	[	  n,	N		]	};
     key <AB07> {	[	  m,	M		]	};
