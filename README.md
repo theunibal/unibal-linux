@@ -1,7 +1,8 @@
 # UniBal Keyboard Layout for Linux
 
 Installation Instructions (Advanced)
-===
+---
+
 cd unibal-linux-master
 sudo cp baL /usr/share/X11/xkb/symbols
 
