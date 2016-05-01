@@ -8,6 +8,7 @@ sudo cp baL /usr/share/X11/xkb/symbols
 
 sudo gedit /usr/share/X11/xkb/rules/evdev.xml
 add this before `</layoutList>`
+
 ```xml
 <layout>
 	<configItem>
