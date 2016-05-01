@@ -8,8 +8,7 @@ sudo cp baL /usr/share/X11/xkb/symbols
 
 sudo gedit /usr/share/X11/xkb/rules/evdev.xml
 add this before `</layoutList>`
-
-`
+```xml
 <layout>
 	<configItem>
 		<name>bal</name>
@@ -21,7 +20,8 @@ add this before `</layoutList>`
 	</configItem>
 	<variantList/>
 </layout>
-`
+```
+
 - Save it
 - Log Out and Log back in
 - Open terminal and type:
