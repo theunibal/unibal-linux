@@ -4,7 +4,7 @@ Installation Instructions (Advanced)
 ---
 
 cd unibal-linux-master
-sudo cp baL /usr/share/X11/xkb/symbols
+sudo cp bal /usr/share/X11/xkb/symbols
 
 sudo gedit /usr/share/X11/xkb/rules/evdev.xml
 add this before `</layoutList>`
