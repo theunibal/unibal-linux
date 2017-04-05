@@ -44,8 +44,8 @@ xkb_symbols "basic"
 	key <AD11> { [    bracketleft,      braceleft                                 ] }; // [ { 
 	key <AD12> { [   bracketright,     braceright                                 ] }; // ] } 
 	key <AE01> { [         zacute,         Zacute,           KP_1,         exclam ] }; // ź Ź 1 ! 
-	key <AE02> { [       NoSymbol,             at,           KP_2                 ] }; //  @ 2 
-	key <AE03> { [       NoSymbol,     numbersign,           KP_3                 ] }; //  # 3 
+	key <AE02> { [              f,              F,           KP_2                 ] }; //  f F 
+	key <AE03> { [              v,              V,           KP_3                 ] }; //  v V 
 	key <AE04> { [         eacute,         Eacute,           KP_4,         dollar ] }; // é É 4 $ 
 	key <AE05> { [         racute,         Racute,           KP_5,        percent ] }; // ŕ Ŕ 5 % 
 	key <AE06> { [         tslash,         Tslash,           KP_6,    asciicircum ] }; // ŧ Ŧ 6 ^ 
